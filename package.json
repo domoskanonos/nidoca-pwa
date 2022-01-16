@@ -21,7 +21,8 @@
     "new-major": "npm version major -m \"new major version: %s\" --force",
     "postversion": "npm publish --access=public"
   },
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "ts-loader": "9.2.6",
     "npm-check-updates": "12.1.0",
     "lit": "2.1.1",
@@ -30,9 +31,7 @@
     "html-webpack-plugin": "5.5.0",
     "webpack": "5.66.0",
     "webpack-cli": "4.9.1",
-    "webpack-dev-server": "4.7.3"
-  },
-  "dependencies": {
+    "webpack-dev-server": "4.7.3",
     "@domoskanonos/nidoca-date-helper": "1.0.4",
     "@domoskanonos/nidoca-form-helper": "1.0.7",
     "@domoskanonos/nidoca-http": "1.0.13",
