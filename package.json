@@ -1,6 +1,6 @@
 {
   "name": "@domoskanonos/nidoca-pwa",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "beschreibung": "nidoca basic pwa client",
   "main": "public/lib/index.js",
   "typings": "public/lib/index.d.ts",
